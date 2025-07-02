@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@hazae41/lengthed",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Typed length for TypeScript",
   "homepage": "https://github.com/hazae41/lengthed",
   "repository": "github:hazae41/lengthed",
